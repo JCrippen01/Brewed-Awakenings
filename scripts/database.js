@@ -65,6 +65,12 @@ const database = {
         name: "Arv Biddle",
         email: "abiddle9@cafepress.com",
         hourlyRate: 13.00
+    },
+        {
+        id: 11,
+        name: "Fats Mcgee",
+        email: "fats@dodgeit.com",
+        hourlyRate: 12.00
 
     }],
     products: [{
